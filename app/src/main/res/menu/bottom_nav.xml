@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home_pg"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/more_pg"
+        android:icon="@drawable/ic_baseline_more_horiz_24"
+        android:title="Catergories" />
+
+    <item
+        android:id="@+id/faith"
+        android:icon="@drawable/ic_baseline_more_horiz_24"
+        android:title="Faith" />
+
+
+</menu>

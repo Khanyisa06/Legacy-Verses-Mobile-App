@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UILegacy2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="more_faith">MORE FAITH</string>
+    <string name="todo">TODO</string>
+    <string name="more_love">More Love</string>
+    <string name="more_power">More power</string>
+</resources>
